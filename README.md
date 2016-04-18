@@ -1,0 +1,2 @@
+# SyncthingLauncher
+SyncthingLauncher App
