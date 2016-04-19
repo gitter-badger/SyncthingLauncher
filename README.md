@@ -15,4 +15,6 @@ website: http://ili-codes.github.io
 
 project page: http://github.com/ili-codes/SyncthingLauncher/
 
+project website: syncthinglauncher.us.to
+
 syncthing website: http://syncthing.net
