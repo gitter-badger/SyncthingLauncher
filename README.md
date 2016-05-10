@@ -1,5 +1,7 @@
 # SyncthingLauncher
 
+[![Join the chat at https://gitter.im/ili-codes/SyncthingLauncher](https://badges.gitter.im/ili-codes/SyncthingLauncher.svg)](https://gitter.im/ili-codes/SyncthingLauncher?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### What is this?
 A simple app to launch Syncthing.
 
